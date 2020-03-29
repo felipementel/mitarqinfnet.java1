@@ -16,9 +16,10 @@ Projeto de loja de venda de equipamentos esportivos - Java com Hibernate
 >>
 >> float
 
-### Persistencia: Hibernate
+### Framework de persistencia:
+> Hibernate
 
-### Relacionamentos utilizados:
+#### Relacionamentos utilizados:
 > OneToOne
 >
 > OneToMany
