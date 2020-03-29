@@ -19,9 +19,8 @@ Projeto de loja de venda de equipamentos esportivos - Java com Hibernate
 # Persistencia: Hibernate
 
 # Relacionamentos utilizados:
->> OneToOne
->>
->> OneToMany
->>
->> ManyToOne
->>
+> OneToOne
+>
+> OneToMany
+>
+> ManyToOne
