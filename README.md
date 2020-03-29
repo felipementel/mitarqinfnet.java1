@@ -5,22 +5,23 @@ Projeto de loja de venda de equipamentos esportivos - Java com Hibernate
 
 > Tipo de dados utilizados
 >> int
-
+>>
 >> long
-
+>>
 >> String
-
+>>
 >> Date
-
+>>
 >> double
-
+>>
 >> float
 
 # Persistencia: Hibernate
 
 # Relacionamentos utilizados:
-> OneToOne
-
-> OneToMany
-
-> ManyToOne
+>> OneToOne
+>>
+>> OneToMany
+>>
+>> ManyToOne
+>>
